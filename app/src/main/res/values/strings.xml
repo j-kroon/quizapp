@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">Question 1 - Multiple choice:</string>
+    <string name="question2">Question 2 - Choose all correct answers:</string>
+    <string name="question3">Question 3 - Multiple choice:</string>
+    <string name="question4">Question 4 - Fill in the blank:</string>
+    <string name="question5">Question 5 - Fill in the blank:</string>
+    <string name="question6">Question 6 - Multiple choice:</string>
+    <string name="question7">Question 7 - True or False:</string>
+    <string name="question8">Question 8 - True or False:</string>
+    <string name="question9">Question 9 - Fill in the blank:</string>
+    <string name="question10">Question 10 - True or False:</string>
+    <string name="question1_body">Capital city of Iraq. As heart of the Arab Empire, it was second only to Constantinople in terms of size and grandeur in 1000 C.E.</string>
+    <string name="question2_body">Byzantine missionaries sent to convert eastern Europe and Balkans; responsible for creation of Slavic written script called Cyrillic; converted southern Russia and Balkans to Orthodox Christianity.</string>
+    <string name="question3_body">This document declared that the pope was the recipient of the Constantine crown and empire. This document was a complete fabrication, but had merit at the time.</string>
+    <string name="question4_body">The _______ _______ were the officers of Charlemagne who traveled annually to each part of the Carolingian Empire to review the administration of the local authorities. This kept Charlemagne\'s empire somewhat under control</string>
+    <string name="question5_body">A _____ was a person under the protection of a feudal lord to whom he has vowed homage.</string>
+    <string name="question6_body">Practice of the Roman Catholic Church in the Middle Ages wherein Church leaders sold high Church positions. This practice was used to gain power for sons who would not inherit family wealth and land because of birth order.</string>
+    <string name="question7_body">Pope Benedict was the pope adamant in forcing the supremacy of the papesy over the whole church, came into conflict with the east church, and caused the great schism.</string>
+    <string name="question8_body">Secular rulers would appoint Church officials through a process called lay investiture.</string>
+    <string name="question9_body">Battle of _______ (1066) was where the armies of William, duke of Normandy, and Harold, earl of Wessex, met. William defeated Harold and became known as William the Conqueror and started a new line of English kings, the Norman dynasty.</string>
+    <string name="question10_body">The French Revolution was a period of 70 years 1305&#8211;1377 where the popes were all french and lived in France instead of Rome.</string>
+    <string name="input_hint">Put Answer Here:</string>
+    <string name="q1a1">Baghdad</string>
+    <string name="q1a2">Egypt</string>
+    <string name="q1a3">Constantinople</string>
+    <string name="q1a4">Babylon</string>
+    <string name="q2a1">Cyril</string>
+    <string name="q2a2">Methodius</string>
+    <string name="q2a3">St. Francis</string>
+    <string name="q2a4">Pope Leo IX</string>
+    <string name="q2a5">Charlemagne</string>
+    <string name="q3a1">the Donation of Constantine</string>
+    <string name="q3a2">Magna Carta</string>
+    <string name="q3a3">Declaration of Independence</string>
+    <string name="q3a4">The Eloquent Livarius</string>
+    <string name="q4a1">missi dominici</string>
+    <string name="q5a1">vassal</string>
+    <string name="q6a1">simony</string>
+    <string name="q6a2">lay investiture</string>
+    <string name="q6a3">indulgences</string>
+    <string name="q6a4">rosary</string>
+    <string name="q7a1">True</string>
+    <string name="q7a2">False</string>
+    <string name="q8a1">True</string>
+    <string name="q8a2">False</string>
+    <string name="q9a1">Hastings</string>
+    <string name="q10a1">True</string>
+    <string name="q10a2">False</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
